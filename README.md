@@ -1,3 +1,6 @@
+# Warning
+**This is a test repository to build the project with MSVC embedding debugging information into oject files, i.e., with `/Z7` rather than `/Zi`.**
+
 # CAF: the C++ Actor Framework
 
 CAF is an open source implementation of the actor model for C++ featuring
